@@ -1,9 +1,24 @@
-## Hi there 👋
-🔭 I’m currently working on: Building portfolio projects focused on LLM fine-tuning techniques. 
-🌱 I’m currently learning: Advanced LLM fine-tuning strategies and Graph RAG. 
-👯 I’m looking to collaborate on: AI developemnt and deployment projects. 
-🤔 I’m looking for help with: Referrals in your organization for exciting opportunities in Data and AI. 
-💬 Ask me about: Data Science, Machine Learning, Deep Learning, RAG, MLOps, and Generative AI. 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/khushal-kharade-72a70739) 
-😄 Pronouns: Him 
-⚡ Fun fact: I built a RAG chatbot in just 2 days! I also designed and implemented a complete data pipeline in GCP in just one week, utilizing all new tools and technologies.
+# Hi there! I'm [Khushal] 👋
+
+---
+
+### About Me
+
+- 🔭 I’m currently working on: A **portfolio project** dedicated to mastering and applying **LLM fine-tuning techniques**.
+- 🌱 I’m currently learning: Advanced **LLM fine-tuning strategies** and delving into **Graph RAG**.
+- 👯 I’m looking to collaborate on: **AI application deployment** projects.
+- 🤔 I’m looking for help with: getting a refferal in your organization for **exciting Data and AI Roles**.
+- 💬 Ask me about: My expertise spans **Data Science, Machine Learning, Deep Learning, RAG (Retrieval-Augmented Generation), MLOps, and Generative AI**.
+
+---
+
+### Get in Touch
+
+- 📫 How to reach me: [www.linkedin.com/in/khushal-kharade-72a70739]
+- 😄 Pronouns: Him
+
+---
+
+### Fun Fact!
+
+⚡ I built a **RAG chatbot** in just **2 days**! I also designed and implemented a complete **data pipeline** in just **one week**, utilizing all new tools and technologies.
