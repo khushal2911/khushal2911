@@ -21,4 +21,4 @@
 
 ### Fun Fact!
 
-⚡ I built a **RAG chatbot** [refer](https://github.com/khushal2911/rta-lmv-chatbot) in just **2 days**! I also designed and implemented a complete **data pipeline** in just **one week** [refer](https://github.com/khushal2911/GD-ETL-Flow-Batch_Data_Pipeline), utilizing all new tools and technologies.
+⚡ I built a [**RAG chatbot**](https://github.com/khushal2911/rta-lmv-chatbot) in just **2 days**! I also designed and implemented a complete [**data pipeline**](https://github.com/khushal2911/GD-ETL-Flow-Batch_Data_Pipeline) in just **one week**, utilizing all new tools and technologies.
