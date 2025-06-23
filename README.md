@@ -4,9 +4,9 @@
 
 ### About Me
 
-- 🔭 I’m currently working on: A **portfolio project** dedicated to mastering and applying **LLM fine-tuning techniques**.
+- 🔭 I’m currently working on: A **portfolio project** applying **Agentic AI Frameworks** and solving a common problem in personal finance.
 - 🌱 I’m currently learning: Advanced **LLM fine-tuning strategies** and delving into **Graph RAG**.
-- 👯 I’m looking to collaborate on: **AI application deployment** projects.
+- 👯 I’m looking to collaborate on: **Gen AI application deployment** projects.
 - 🤔 I’m looking for help with: **exciting opportunities in Data and AI**.
 - 💬 Ask me about: My expertise spans **Data Science, Machine Learning, Deep Learning, LLMs, RAG (Retrieval-Augmented Generation), MLOps, and Generative AI**.
 
