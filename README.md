@@ -1,4 +1,4 @@
-# Hi there! I'm Khushal 👋
+# Hi there! I'm Khushal (pronounced: kh-oo-sh-aa-l) 👋
 
 ---
 
